@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/.img_mario" width="100%" />
+  <img src="./assets/img_mario.png" width="100%" />
 </p>
 
 ## 💻 Projeto
